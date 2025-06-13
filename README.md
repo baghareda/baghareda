@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+m+Reda;Welcome+To+My+Github)](https://git.io/typing-svg)
 
 # 💫 About Me:
-👋 Hi, I'm Reda, a coding enthusiast!  <br>💻 Studied at 1337 School, where I got solid foundations in C.  <br>🚀 Currently exploring and building small projects in Go.  <br>🌱 Always learning, always growing!  <br>🎯 Fun fact: When I'm not solving bugs, I'm probably debugging my coffee machine!  <br>
+👋 Hi, I'm Reda, a coding enthusiast!  <br>💻 Studied at 1337 School, where I got solid foundations in C.  <br>🚀 Currently building backend skills with Python, Java, SQL  <br>🌱 Always learning, always growing!  <br>🎯 Fun fact: When I'm not solving bugs, I'm probably debugging my coffee machine!  <br>
 
 [![rebagha's 42 stats](https://badge.mediaplus.ma/levi/rebagha)](https://github.com/oakoudad/badge42)
 
